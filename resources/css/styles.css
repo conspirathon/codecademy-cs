@@ -1,0 +1,24 @@
+/* border to help me visualize box-model */
+
+* {
+    border: 1px solid red;
+    background-color: antiquewhite;
+}
+
+h2 {
+    text-align: center;
+    background-color: bisque;
+}
+
+table {
+    text-align: center;
+    background-color: bisque;
+    box-shadow: 1px;
+    width: min-content 325px max-content 650px;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
